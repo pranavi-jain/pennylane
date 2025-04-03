@@ -1,2 +1,2 @@
 # pennylane
-Exploring Pennylane - https://pennylane.ai/
+Exploring PennyLane - https://pennylane.ai/
